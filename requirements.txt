@@ -1,0 +1,4 @@
+falcon==1.4.1
+waitress==1.1.0
+requests==2.14.2
+asana_kazoo==2.0.8dev
